@@ -1,4 +1,5 @@
-- 👋 Hi, I’m a current HS senior.
+<h1> Hi, I'm Mandy! </h1>
+- 👋 I’m a current HS senior.
 - 👀 I’m interested in the intersection of marketing, tech, and innovation.
 - 🌱 I’m currently learning JS in AP Computer Science.
 
