@@ -1,9 +1,9 @@
 <h1> Hi, I'm Mandy! </h1>
 
 <ul>
-<li> 👋 I’m a current HS senior. </li>
-<li> 👀 I’m interested in the intersection of marketing, tech, and innovation. </li>
-<li> 🌱 I’m currently learning JS in AP Computer Science. </li>
+<li> 👋 I’m a first-year Computing & Arts student at Yale. </li>
+<li> 👀 I’m interested in the intersection of design, tech, and psychology. </li>
+<li> 🌱 I’m currently working on web redesigns. </li>
 </ul>
 
  <img SRC="https://gifdb.com/images/high/cute-white-cartoon-cat-jhuqk0ets8r0ttfq.gif">
